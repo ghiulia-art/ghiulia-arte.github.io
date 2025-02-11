@@ -1,4 +1,4 @@
-<h1 class='text-center'>ola mundo!</h1>
+<h1 class='text-center'>ola muerndo!</h1>
 
 <svelte:head>
 	<style>
